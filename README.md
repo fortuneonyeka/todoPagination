@@ -26,7 +26,7 @@ npm install
 npm start
 ```
 
-1. Next, you can start joining missions and booking rockets. All the changes will be automatically updated on your local server on http://localhost:3000/. You can stop your local server at any time hitting `<Ctrl> + C` on your keyboard.
+1. Next, you can start viewing todos and changing pages and filtering by numbers per page. All the changes will be automatically updated on your local server on http://localhost:3000/. You can stop your local server at any time hitting `<Ctrl> + C` on your keyboard.
 
 ## Author
 
