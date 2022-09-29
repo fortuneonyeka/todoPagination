@@ -47,7 +47,7 @@ const Pagination = () => {
  
   return (
   <>
-  
+  <h1>Todos With Paggination</h1>
     <select onChange={(e) => setTodoPages(e.target.value)}>
         <option value="10">10</option>
         <option value="30">30</option>
